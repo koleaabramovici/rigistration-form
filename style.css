@@ -1,0 +1,54 @@
+.styleForm {
+
+    border: 1px solid #d2d2d2;
+    display: block;
+    font-family: "Open sans";
+    width: 25%;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(56 51 51 / 50%);
+    padding: ;
+    box-sizing: border-box;
+    padding-left: 60px;
+}
+
+.header-title {
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+
+
+input {
+    border: 1.5px solid #d8cccc;
+    padding: 5px;
+    margin-top: 4px;
+    width: 75%;
+    font-size: 13px;
+    border-radius: 3px;
+    display: block;
+}
+
+label {
+    display: block;
+    color: #6c7f82;
+    font-weight: 550;
+    
+}
+
+button {
+    border-style: none;
+    background: #2ba7de;
+    width: 80%;
+    height: 35px;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 14px;
+    margin: 15px auto;
+
+}
+
+span {
+    font-size: 11px;
+    color: red;
+}
